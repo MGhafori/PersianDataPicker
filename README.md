@@ -1,3 +1,3 @@
-# PersianCalendar
-Persian Data Picker 
+# Persian Data Picker
+
 برنامه انتخاب تاریخ فارسی که با تمام ورژن های اندروید سازگاری دارد و ظاهر ساده و متفاوتی دارد.
